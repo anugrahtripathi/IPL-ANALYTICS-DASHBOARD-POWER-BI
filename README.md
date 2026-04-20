@@ -58,7 +58,7 @@ Analyze IPL data to answer:
 ![Season](assets/Screenshot2026.png)
 
 ### 🔵 Venue Analysis
-![Venue](dashboard2.png)
+![Venue](assets/Screenshot005631.png)
 
 ### 🟢 Tooltip
 ![Tooltip](dashboard3.png)
