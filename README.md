@@ -61,7 +61,7 @@ Analyze IPL data to answer:
 ![Venue](assets/Screenshot005631.png)
 
 ### 🟢 Tooltip
-![Tooltip](dashboard3.png)
+![Tooltip](assets/Screenshot04.png)
 
 ---
 
